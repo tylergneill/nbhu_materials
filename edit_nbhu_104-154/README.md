@@ -16,4 +16,4 @@ Editing conventions for transcript files:
 * ¯ space left by scribe
 * ² second hand
 
-For witness transcripts, round brackets also enclose folio/page break and line information, e.g., (P1D_023r1). For all, curly brackets enclose passage identifiers, e.g., {104,6;1}.
+For witness transcripts, round brackets also enclose folio/page break and line information, e.g., (P1D_023r1). For all, curly brackets enclose passage identifiers, e.g., {104,6}.
