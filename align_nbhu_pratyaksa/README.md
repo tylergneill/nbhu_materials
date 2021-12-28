@@ -10,7 +10,7 @@ So far (Dec 2021), I've done chapters 3–7 out of the relevant chapters 3–14.
 
 # quickly view HTML version
 
-[Click here to view the table in simple HTML](https://htmlpreview.github.io/?https://github.com/tylergneill/align_nbhu_pratyaksa/blob/master/alignment.htm). The bold shows which English is actually translating Sanskrit.
+[Click here to view the table in simple HTML](https://htmlpreview.github.io/?https://github.com/tylergneill/nbhu_materials/blob/master/align_nbhu_pratyaksa/alignment.htm). The bold shows which English is actually translating Sanskrit.
 
 # details on the work in progress
 
