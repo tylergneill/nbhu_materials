@@ -6,4 +6,4 @@ This repository contains just a single spreadsheet detailing intertextual citati
 
 # quickly view HTML version
 
-[Click here to view the table in simple HTML.](https://htmlpreview.github.io/?https://github.com/tylergneill/nbhu_materials/blob/master/yamakami_citation_benchmark/yamakami_citation_benchmark.htm)
+[Click here to view the table in simple HTML](https://htmlpreview.github.io/?https://github.com/tylergneill/nbhu_materials/blob/master/yamakami_citation_benchmark/yamakami_citation_benchmark.htm) (appearance currently not great).
