@@ -417,7 +417,6 @@ Alternatively, [it is better to say that] the whole is simply that thing, posses
 Others say that it [the whole] is nothing but a property of the atoms. [But] is that [property of the atoms] possessed of (°*yukta*) the color and so on, or is it devoid of it? If it [the property] possesses color and so on [and if it does so] as something over and above the atoms, then there is no dispute [between us], because it is no contradiction for an effect to be a property of its causes. If it is devoid of the e.g. color, then there is a clear contradiction (*adhyakṣavirodha*), since the e.g. cloth is apprehended to have e.g. color through none other than direct perception. Also on the Sāṃkhya view, as a result of assuming non-difference of property and property-possessor, it is impossible for a property that is beyond the range of the senses to be directly apprehended. For indeed, if it were directly perceptible, then the property-possessor, which is not different from that [property], would also have to be directly perceptible, or else (*vā*) it would undo the identity [of the two].
 
 **129,6**
-
 Furthermore, if you say that the thought [that occurs about a two-tiered pot] is that “These are two pots joined together”, [and] not that “It is many atoms” or “[It is] a property thereof”, and therefore (*tat*) that it [the thought of the pot etc.] is like the thought of a temple (*devakula*) and so on, then you [must] think [the following] (*atha manyase*): Just as a temple along with (*ca*) its surrounding compound (*prākāra*) is said to be (*ucyate*) nothing but a particular conjunction of bricks (*iṣṭakā*) and so on, and yet (*atha ca*) there [also] occurs the thought about them that the temple and its surrounding compound, [each of] which have [their own] color etc., are conjoined, that's also how it is for pots etc.
 
 **+129,9**
@@ -465,7 +464,6 @@ But surely [one might object], one does [in fact] observe a division even of the
 Now it is [perhaps] supposed that (*...iti vikalpyate*) it is relative to other substances (*dravyāntarebhyaḥ*) serving as reference points that the atom itself (*eva*) is eastern, southern, western, or northern. [To which we would answer:] Then there is no contradiction, since one observes different ways of referencing (*vyapadeśa*) even an undivided thing by way of different imposed properties (*upādhi*s).
 
 **132,2**
-
 Also [to have said] that [either the indivisible atom does not exist] “or else ether is not all-pervasive” is not correct, since that which is permanent and without parts cannot be divided. Then [one might insist]: If ether does not exist inside it [the atom] (*antas tasya*), then ether ends up not being all-pervasive. [To this we say:] No [that argument fails], because you have not fully understood the nature of something all-pervasive (*sarvagatasvarūpa*). To explain: All-pervasive is what one calls a substance which is by nature undivided and which has a connection with all corporeal things, and ether does have this character, which is inferred by the arising of sound in all places (*sarvatra*). Therefore, it [ether] is, too, in fact all-pervasive.
 
 **+132,6**
