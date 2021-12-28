@@ -1,7 +1,7 @@
 # translate_nbhu_104-154
 This is where I keep public copies of my NBhū translation materials.
 
-* zipped LaTeX source files([originals on Overleaf](https://www.overleaf.com/read/vpnjgqqqptww))
+* zipped LaTeX source files ([originals on Overleaf](https://www.overleaf.com/read/vpnjgqqqptww))
 * simplified Markdown derived from the above (removing footnotes, extra formatting, etc.)
 * also a DOCX file produced from the above Markdown file with below command:
 
